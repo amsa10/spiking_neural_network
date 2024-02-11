@@ -1,0 +1,1 @@
+This code defines a simple Spiking Neural Network with one hidden layer and one output layer. It uses the SpikeProp algorithm for training. You can adjust parameters such as the number of hidden neurons, learning rate, and number of epochs according to your requirements.
